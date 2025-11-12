@@ -37,14 +37,6 @@ It analyzes user inputs in real-time and gives a verdict with a confidence score
 
 ---
 
-## 🧪 Live Demo Preview
-
-<p align="center">
-  <img src="https://github.com/iamnih4l/FakeReview/blob/main/images/demo1.png" width="45%" style="border-radius:10px;"/>
-  <img src="https://github.com/iamnih4l/FakeReview/blob/main/images/demo2.png" width="45%" style="border-radius:10px;"/>
-</p>
-
-> 🎥 *Experience the interface detecting fake reviews in real-time.*
 
 ---
 
